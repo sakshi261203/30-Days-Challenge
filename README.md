@@ -9,3 +9,6 @@ Today I had created the home page successfully.
 
 #DAY-3
 Today I had revise the concept of tailwind.
+
+#DAY-4
+Today I had revised the concept of maps, filter, reduce and spread.
