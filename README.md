@@ -12,3 +12,6 @@ Today I had revise the concept of tailwind.
 
 #DAY-4
 Today I had revised the concept of maps, filter, reduce and spread.
+
+#DAY-5
+Today I had revised the concept of bootstrap.
