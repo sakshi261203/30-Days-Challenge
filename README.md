@@ -15,3 +15,6 @@ Today I had revised the concept of maps, filter, reduce and spread.
 
 #DAY-5
 Today I had revised the concept of bootstrap.
+
+#DAY-6
+Today I learnt about the concept of server-side rendering.
