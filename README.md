@@ -18,3 +18,6 @@ Today I had revised the concept of bootstrap.
 
 #DAY-6
 Today I learnt about the concept of server-side rendering.
+
+#DAY-6
+Today I had revised the concept of react whatever I learnt till yet.
