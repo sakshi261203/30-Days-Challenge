@@ -21,3 +21,7 @@ Today I learnt about the concept of server-side rendering.
 
 #DAY-7
 Today I had revised the concept of react whatever I learnt till yet.
+
+#DAY-8
+Today I add some features to my ongoing website.
+
