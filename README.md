@@ -27,3 +27,6 @@ Today I add some features to my ongoing website.
 
 #DAY-9
 Today I add social media page on my ongoing website.
+
+#DAY-10
+Today I learnt about the component reusability.
