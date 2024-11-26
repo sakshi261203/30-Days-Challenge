@@ -30,3 +30,6 @@ Today I add social media page on my ongoing website.
 
 #DAY-10
 Today I learnt about the component reusability.
+
+#DAY-11
+Today I revised all the concept of react whatever I learnt till yet.
