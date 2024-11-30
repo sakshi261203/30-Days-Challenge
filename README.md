@@ -42,3 +42,6 @@ Today I learnt the State hook.
 
 #DAY-14
 Today I had added some features to my ongoing website.
+
+#DAY-15 
+Today I learnt about props.
