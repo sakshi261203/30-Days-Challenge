@@ -45,3 +45,6 @@ Today I had added some features to my ongoing website.
 
 #DAY-15 
 Today I learnt about props.
+
+#DAY-16
+Today I worked on the ui of my website.
