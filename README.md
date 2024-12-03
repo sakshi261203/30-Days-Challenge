@@ -48,3 +48,6 @@ Today I learnt about props.
 
 #DAY-16
 Today I worked on the ui of my website.
+
+#DAY-17
+Today I added a section to my website.
