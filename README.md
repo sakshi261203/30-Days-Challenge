@@ -51,3 +51,6 @@ Today I worked on the ui of my website.
 
 #DAY-17
 Today I added a section to my website.
+
+#DAY-18
+Today I had learnt about form handling.
