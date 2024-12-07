@@ -60,3 +60,6 @@ Today I had added a feature in my website.
 
 #DAY-20
 Today I had learnt about routing.
+
+#DAY-21
+Today I worked on the ui of my website.
