@@ -66,3 +66,6 @@ Today I worked on the ui of my website.
 
 #DAY-22
 Today I revised all the concepts that I learnt till yet.
+
+#DAY-23
+Today I worked on form handling.
