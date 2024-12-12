@@ -75,3 +75,6 @@ Today I worked on props.
 
 #DAY-25
 Today I worked on my website.
+
+#DAY-26
+Today I worked on states.
