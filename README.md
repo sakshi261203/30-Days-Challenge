@@ -81,3 +81,6 @@ Today I worked on states.
 
 #DAY-27
 Today I worked on useStates.
+
+#DAY-28
+Today I practiced on react concepts.
