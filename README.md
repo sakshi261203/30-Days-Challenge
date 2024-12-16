@@ -87,3 +87,6 @@ Today I practiced on react concepts.
 
 #DAY-29
 Today I worked on my project.
+
+#DAY-30
+Today I revised all the concepts.
